@@ -1,4 +1,5 @@
-Una vezclonado el repositorio:
+Una vezclonado el repositorio desde:
+https://github.com/MonicaBebesita/prueba-de-algoritmia.git
 
 1.	Ubicate en la carpeta en la que se encuentra el archivo     	buscador_numeros.py 
 
